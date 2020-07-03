@@ -1,8 +1,4 @@
-<h1 align="center">
-    <img alt="React logo" width="70px" height="50px" src="https://github.com/luizpaulogroup/react-nubank/blob/master/src/Gif/react.png" />
-    <br>
-    Content consolidation activity
-</h1>
+<h1 align="center">Content consolidation activity</h1>
 
 <h4 align="center">Exam</h4>
 
